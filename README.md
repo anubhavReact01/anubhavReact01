@@ -2,7 +2,7 @@
 
 ### MERN Stack Developer
 
-I'm passionate about building full-stack web applications and continuously improving my skills in modern web development.
+MERN Stack Developer focused on building scalable full-stack web applications with React, Node.js, Express.js, and MongoDB. Experienced in authentication, REST APIs, CRUD operations, and responsive UI development.
 
 🚀 Currently focused on React, Node.js, Express.js, and MongoDB.
 
